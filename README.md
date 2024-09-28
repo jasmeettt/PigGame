@@ -1,6 +1,4 @@
-# PigGame
-
-# Pig Game
+## PigGame
 
 Welcome to the Pig Game! This is a simple dice game built using HTML, CSS, and JavaScript.
 
